@@ -127,6 +127,10 @@ header {
     letter-spacing: 2px;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 /*Hover*/
 
 .hvr-sweep-to-bottom:before {

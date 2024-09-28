@@ -11,6 +11,10 @@
     background-color: #ffffff;
 }
 
+.bg-color-personal-info {
+    background-color:#f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -29,7 +33,7 @@
 
 }
 .section-column {
-    display:table-cell;
+    display: table-cell;
     padding: 0 30px 30px;
     float: none;
 }
@@ -63,8 +67,8 @@ header {
 }
 
 .name {
-    font-family: "exo",sans-serif;
-    font-weight:100;
+    font-family: "Exo",sans-serif;
+    font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
     color: #ffffff
@@ -84,7 +88,7 @@ header {
 }
 
 .menucontainer {
-    font-size:0;
+    font-size: 0;
 }
 
 #nav li {
@@ -97,9 +101,9 @@ header {
 }
 
 .menuitem {
-    height:120px;
+    height: 120px;
     text-align: center;
-    padding: 0%;
+    padding: 0;
 }
 
 .menuitem a {
@@ -198,5 +202,5 @@ footer {
 }
 
 .three-reasons-heading {
-    margin bottom: 15px;
+    margin-bottom: 15px;
 }
